@@ -1,0 +1,32 @@
+num_buses test cases:
+n = 0
+n = 1
+n = 49
+n = 50
+n = 51
+n = 100
+n = 75
+n = 365
+
+stock_price_summary test cases:
+all zeroes
+all positive
+all negative
+mix of positive and negative
+
+
+only one item in list
+empty list
+many items in list
+
+
+swap_k test cases:
+empty list
+only one item in list
+even # of items in list
+odd # of items in list
+
+k = 0
+k = 1
+k = 2
+k = len(L) // 2
